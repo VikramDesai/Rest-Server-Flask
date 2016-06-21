@@ -2,7 +2,7 @@
 
 Our tasks resource will use HTTP methods as follows:
 
-HTTP Method	URI	Action
+# HTTP Method	URI	Action
 
 GET	http://[hostname]/todo/api/v1.0/tasks	Retrieve list of tasks
 
